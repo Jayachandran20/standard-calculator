@@ -95,10 +95,17 @@ Publish the website in the given URL.
     </body>
 </html>
 
+
 ## OUTPUT:
+
+![Screenshot from 2023-01-24 22-35-04](https://user-images.githubusercontent.com/118447015/214359935-02f0166f-9e7a-4981-b881-d3c298c8a89e.png)
 
 
 ## Validator:
+![Screenshot from 2023-01-24 22-36-09](https://user-images.githubusercontent.com/118447015/214360129-c266bd62-227f-4382-8790-4952f274d0c2.png)
+
+
+
 
 ## Result:
 Thus a web application for standard calculator is designed.
